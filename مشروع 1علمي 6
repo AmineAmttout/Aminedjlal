@@ -1,0 +1,90 @@
+<html>
+   <head>
+       <title>Sample HTML Code</title>
+<style>
+    .centered-span {
+        display: block;
+        text-align: center;
+    }
+    .circle-link {
+        position: absolute;
+        top: 155%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        display: inline-block;
+        width: 450px;
+        height: 90px;
+        line-height: 65px;
+        text-align: center;
+        border-radius: 50%; /* يجعل الوصلة دائرية */
+        background-color: #04AA6D;
+        color: white;
+        text-decoration: none;
+    }
+</style>
+   </head>
+   <body>
+       <a href="https://content://org.telegram.messenger.provider/media/Android/data/org.telegram.messenger/files/Telegram/Telegram%20Documents/4_5832173032252118633.html" class="circle-link">اضغط لاضهار باقي الوسوم </a>
+       <span class="centered-span">HTMLهاذه هي كل وسوم</span>
+<div class="responsive-table">
+<table class="rtl ar right">
+<tbody><tr>
+<th class="center">الوسم</th>
+<th class="center">استخدامه</th>
+</tr>
+<tr>
+<td class="left"><code>&lt;!-- --&gt;</code></td>
+<td class="ar">يستخدم لوضع تعليق في الكود.<br>
+</td>
+</tr>
+            <tr>
+<td class="left"><code>&lt;!DOCTYPE&gt;</code></td>
+<td>يستخدم لإعلام المتصفح بإصدار لغة <span class="word">HTML</span> المعتمد في الصفحة.<br>
+</td>
+</tr>
+<tr>
+<td class="left"><code>&lt;a&gt;</code></td>
+<td>يستخدم لعرض رابط في الصفحة.<br>
+</td>
+</tr>
+<tr>
+<td class="left"><code>&lt;abbr&gt;</code></td>
+<td>يستخدم لوضع تعريف لكلمة أو جملة موضوعة بشكل مختصر يتم إظهاره عند تمرير الماوس فوقه.<br>
+</td>
+</tr>
+<tr>
+<td class="left"><code>&lt;address&gt;</code></td>
+<td>يستخدم لعرض معلومات التواصل مع المؤلف أو الكاتب في الصفحة.<br>
+</td>
+</tr>
+<tr>
+<td class="left"><code>&lt;area&gt;</code></td>
+<td>يتسخدم لتحديد منقطة في خريطة الصورة التي يتم وضعها بواسطة الوسم <span class="enlighter"><span class="enlighter-g1">&lt;</span><span class="enlighter-x1">map</span><span class="enlighter-g1">&gt;</span></span> مما يجعلها كرابط يمكن النقر عليه.<br>
+</td>
+</tr>
+<tr>
+<td class="left"><code>&lt;article&gt;</code></td>
+<td>المحتوى الذي يوضع فيه يتم عرضه على سطر منفرد و لكن هذا ليس الهدف
+ من استخدامه. بشكل عام إذا كانت الصفحة تعرض مجموعة مقالات, تعليقات, 
+بطاقات إلخ.. يمكن عرض كل واحدة منهم بداخل وسم من هذا النوع.<br>
+</td>
+</tr>
+<tr>
+<td class="left"><code>&lt;aside&gt;</code></td>
+<td>المحتوى الذي يوضع فيه يتم عرضه على سطر منفرد و لكن هذا ليس الهدف
+ من استخدامه. بشكل عام المحتوى الغير مرتبط بشكل مباشر بمحتوى الصفحة يمكن
+ وضعه بداخل وسم من هذا النوع. أيضاً إذا كان تصميم الصفحة يتضمن قائمة 
+جانبية على طول الصفحة يمكن وضع محتوى القائمة بداخل وسم من هذا النوع.<br>
+</td>
+</tr>
+            <tr>
+<td class="left"><code>&lt;audio&gt;</code></td>
+<td>يستخدم لعرض مشغل ملف صوتي في الصفحة.<br>
+</td>
+</tr>
+<tr>
+<td class="left"><code>&lt;b&gt;</code></td>
+<td>يستخدم لعرض الكلام الموضوع في الفقرة بخط عريض.<br>
+</td>
+   </body>
+</html>
